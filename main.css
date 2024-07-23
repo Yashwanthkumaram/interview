@@ -62,7 +62,7 @@
 }
 
 #leave-btn{
-    background-color: rgb(255,80,80, 1);
+    background-color: rgb(255,0,0);
 }
 
 @media screen and (max-width:600px) {
